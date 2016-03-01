@@ -1,7 +1,7 @@
 /*
 ###########################################################
 # Mazesmith
-# Version: 0.7.0
+# Version: 0.7.0 _jmod02a(arrowkeys)20150501
 # Author:  Robert
 # Email:   brathna@gmail.com
 # Website: http://mazesmith.sourceforge.net/
